@@ -1,18 +1,70 @@
-# 💫 About Me:
-Seeking to Get and Work on New Projects and Knowledge<br>I'm Currently in AI and Machine Learning Domain<br>
+# Hi, I'm Purshottam Rakesh 👋
 
+B.Tech CSE (AI & ML) Student at VIT Bhopal
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisissaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Purshottam Rakesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityarakes9155@gmail.com) 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thisissaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Passionate about:
+- Machine Learning
+- Data Science
+- AI for Healthcare
+- Software Development
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thisissaditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+### TalentForge AI
+AI-powered career guidance platform
+AI Career Recommendation System
+Resume Analysis
+Skill Matching
+Machine Learning
+
+Tech:
+Python, Flask, Machine Learning
+
+Repository:
+[[Link]](https://github.com/thisissaditya/TalentForge-AI-Ranker)
+
+---
+
+### CardioRisk Analytics
+Cardiovascular risk prediction system
+Healthcare AI
+Risk Prediction
+Random Forest
+Logistic Regression
+Neural Networks
+Data Visualization
+
+Tech:
+Python, Scikit-Learn, Flask, Chart.js
+
+Repository:
+[Link]
+
+---
+
+## Tech Stack
+
+![Python]
+![Flask]
+![Scikit Learn]
+![GitHub]
+![SQL]
+![HTML5]
+
+---
+
+## GitHub Statistics
+
+[![thisissaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissaditya&show_icons=true)](https://github.com/thisissaditya/github-readme-stats)
+---
+## GitHub Activity Graph
+
+[![thisissaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thisissaditya)](https://github.com/thisissaditya/github-readme-activity-graph)
+
+## Connect With Me
+
+LinkedIn : https://www.linkedin.com/in/purshottam-rakesh-3384aa28a/
+Email : adityarakesh9155@gmail.com
+Instagram : https://www.instagram.com/thisissaditya/

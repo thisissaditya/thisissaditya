@@ -33,7 +33,11 @@ Repository:
 
 ## Tech Stack
 
-(https://skillicons.dev/icons?i=python,flask,git,github,html,css,js,)
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,git,github,html,css,js,vscode" />
+</p>
 
 ---
 

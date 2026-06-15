@@ -40,7 +40,7 @@ Tech:
 Python, Scikit-Learn, Flask, Chart.js
 
 Repository:
-[Link]
+[[Link]](https://github.com/thisissaditya/CardioRisk-Analytics)
 
 ---
 
